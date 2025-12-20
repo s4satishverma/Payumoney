@@ -1,2 +1,2 @@
-### Local Set Details ###
+# Local Setup #
 1.
