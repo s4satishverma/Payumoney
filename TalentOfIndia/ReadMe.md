@@ -1,3 +1,3 @@
 # Local Setup #
-1. Install last required softwares
+1. Install lastest required softwares
 2. 
